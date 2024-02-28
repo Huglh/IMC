@@ -1,0 +1,21 @@
+H:\POO\2 etapa\revisao_16\revisao_16\obj\Debug\revisao_16.csproj.AssemblyReference.cache
+H:\POO\2 etapa\revisao_16\revisao_16\obj\Debug\revisao_16.csproj.SuggestedBindingRedirects.cache
+H:\POO\2 etapa\revisao_16\revisao_16\obj\Debug\revisao_16.Form1.resources
+H:\POO\2 etapa\revisao_16\revisao_16\obj\Debug\revisao_16.Properties.Resources.resources
+H:\POO\2 etapa\revisao_16\revisao_16\obj\Debug\revisao_16.csproj.GenerateResource.cache
+H:\POO\2 etapa\revisao_16\revisao_16\obj\Debug\revisao_16.csproj.CoreCompileInputs.cache
+H:\POO\2 etapa\revisao_16\revisao_16\bin\Debug\revisao_16.exe.config
+H:\POO\2 etapa\revisao_16\revisao_16\bin\Debug\revisao_16.exe
+H:\POO\2 etapa\revisao_16\revisao_16\bin\Debug\revisao_16.pdb
+H:\POO\2 etapa\revisao_16\revisao_16\obj\Debug\revisao_16.exe
+H:\POO\2 etapa\revisao_16\revisao_16\obj\Debug\revisao_16.pdb
+C:\Users\User\Downloads\revisao_16\revisao_16\revisao_16\bin\Debug\revisao_16.exe.config
+C:\Users\User\Downloads\revisao_16\revisao_16\revisao_16\bin\Debug\revisao_16.exe
+C:\Users\User\Downloads\revisao_16\revisao_16\revisao_16\bin\Debug\revisao_16.pdb
+C:\Users\User\Downloads\revisao_16\revisao_16\revisao_16\obj\Debug\revisao_16.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\revisao_16\revisao_16\revisao_16\obj\Debug\revisao_16.Form1.resources
+C:\Users\User\Downloads\revisao_16\revisao_16\revisao_16\obj\Debug\revisao_16.Properties.Resources.resources
+C:\Users\User\Downloads\revisao_16\revisao_16\revisao_16\obj\Debug\revisao_16.csproj.GenerateResource.cache
+C:\Users\User\Downloads\revisao_16\revisao_16\revisao_16\obj\Debug\revisao_16.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\revisao_16\revisao_16\revisao_16\obj\Debug\revisao_16.exe
+C:\Users\User\Downloads\revisao_16\revisao_16\revisao_16\obj\Debug\revisao_16.pdb
